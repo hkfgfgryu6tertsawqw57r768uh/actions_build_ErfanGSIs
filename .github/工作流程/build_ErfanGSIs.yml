@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V9.2.3.0.LXACNEK/miui_MI2_V9.2.3.0.LXACNEK_68e064332d_5.0.zip
+  ROM_URL: https://bigota.d.miui.com/9.9.3/miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
